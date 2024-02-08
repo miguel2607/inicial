@@ -4,4 +4,4 @@
 
  //Aqui imprimimos el tipo de variable de age
  console.log("La variable age es de tipo: " + typeof(age))
- console.log("La variable name es de tipo: " + typeof(name))
+ console.log("La variable name es de tipo: " + typeof(name))    
